@@ -1,9 +1,8 @@
 ############################################   -== INFORMATION ==-   ############################################
 
-#### ACCESS YOUR PHONE'S WEBCAM VIA APP "IP Webcam" + THIS CODE
 #### THE PROGRAM WAS CREATED AND PUBLISHED BY:
 #### https://github.com/viktorsynek
-#### https://twitter.com/vAnonyms
+#### https://www.linkedin.com/in/viktor-synek/
 
 #############################################   -== PROGRAM ==-   ###############################################
 
